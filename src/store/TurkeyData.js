@@ -18,7 +18,7 @@ class TurkeyData{
         try{
             const {data:{result}}=await axios.get(`${API_COUNTRIES}?country=Turkey`,{
                 headers:{
-                    authorization: 'apikey 0Q3J6uQUE9T9m3bS01EZMO:2XjGPcSDXXOKerv2ouoRgO',
+                    authorization: 'authorization: apikey your_token',
                     'Content-Type': 'application/json'
                 }
             })
