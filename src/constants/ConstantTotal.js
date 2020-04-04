@@ -1,0 +1,1 @@
+export const API_TOTAL='https://api.collectapi.com/corona/totalData';

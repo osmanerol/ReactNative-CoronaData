@@ -1,0 +1,1 @@
+export const API_COUNTRIES='https://api.collectapi.com/corona/countriesData';
